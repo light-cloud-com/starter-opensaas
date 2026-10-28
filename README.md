@@ -1,5 +1,7 @@
 # Open SaaS
 
+[![Deploy to Light Cloud](https://light-cloud.com/button.svg)](https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/starter-opensaas)
+
 Your SaaS app, built on [Wasp](https://wasp.sh) from the
 [Open SaaS](https://opensaas.sh) template: React + Node.js + Prisma, with
 auth, payments, an admin dashboard, file uploads and background jobs wired
